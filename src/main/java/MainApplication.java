@@ -12,6 +12,7 @@ public class MainApplication {
     }
 
     private static void initApplication() {
+        System.out.println("git");
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("In which currency you'd like to have a withdraw \n for us money press USD \n for canadian press CAD");
