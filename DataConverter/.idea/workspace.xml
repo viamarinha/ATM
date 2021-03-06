@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d5f1fb8-efdc-492b-a229-d7431c86dd8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/.swagger-codegen-ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/.swagger-codegen/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ApiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ApiOriginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ApiResponseMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ConvertApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ConvertApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/JacksonJsonProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/NotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/RFC3339DateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/model/BadConversationResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/model/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/model/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/main/java/io/swagger/api/Bootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/main/java/io/swagger/api/factories/ConvertApiServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/main/java/io/swagger/api/impl/ConvertApiServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/1/d/1dfdfbf7e9c55e94ccea163515bc3ec642da59f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/2/d/2d16297a6769356ce803b81ce479535fe6d2c773" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/4/9/49df595ae8c81d2db34168d80f11a675d2e63c94" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/5/e/5ee1cfecfc1b81ac44943ba1076444d90e021526" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/6/7/670fcb03b7c94ad9341ce069b5312ed001942bc9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/7/4/749796b4b0fb8e9f55dcce85faec5ea185ebc9b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/9/7/97f03cd920f94c3fad2e8cdd998bd26b4fad174f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/a/1/a1b0daf5efe73744c617e51f1220e30bf6b9be00" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/c/f/cfb8ebd2ccabcd96f5fd3dc3b4572c27ea14173e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/d/c/dce57106d7e1ca862c12fffef6adeddd5a0c7d70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/e/b/eb4bb875884087093c9765458b217b497fabeb98" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/DataConverter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlToJson/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XmlToJson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlToJson/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlToJson/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/jsontoxml/JsonToXmlConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/jsontoxml/JsonConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/xmltojson/XmlToJsonConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/xmltojson/XmlConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlToJson/src/test/java/dev/viamarinha/jsontoxml/JsonToXmlConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/src/test/java/dev/viamarinha/jsontoxml/JsonConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlToJson/src/test/java/dev/viamarinha/xmltojson/XmlToJsonConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/src/test/java/dev/viamarinha/xmltojson/XmlConverterTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pJsK7HbXqDVk12LDHZO4xBaucO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Converter_web_app/swagger-jaxrs-server.iml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CruiseMentoring\DataConverter" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.viamarinha.MainTest" />
+      <module name="Data_Utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.viamarinha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d5f1fb8-efdc-492b-a229-d7431c86dd8f" name="Default Changelist" comment="" />
+      <created>1614912463781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614912463781</updated>
+      <workItem from="1614912464899" duration="753000" />
+      <workItem from="1614913237397" duration="1487000" />
+      <workItem from="1614915296872" duration="98000" />
+      <workItem from="1614917499681" duration="329000" />
+      <workItem from="1614917847912" duration="1120000" />
+      <workItem from="1614996397635" duration="2442000" />
+      <workItem from="1614998932861" duration="4315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
