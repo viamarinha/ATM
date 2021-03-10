@@ -4,39 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d5f1fb8-efdc-492b-a229-d7431c86dd8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="4d5f1fb8-efdc-492b-a229-d7431c86dd8f" name="Default Changelist" comment="Adding new module and refactoring a webapp">
       <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/.swagger-codegen-ignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/.swagger-codegen/VERSION" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ApiException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ApiOriginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ApiResponseMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ConvertApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ConvertApiService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/JacksonJsonProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/NotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/RFC3339DateFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/StringUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/model/BadConversationResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/model/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/model/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/main/java/io/swagger/api/Bootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/main/java/io/swagger/api/factories/ConvertApiServiceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/main/java/io/swagger/api/impl/ConvertApiServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Converter_web_app/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlToJson" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/XmlToJson/.idea/jarRepositories.xml" afterDir="false" />
@@ -65,16 +39,54 @@
       <change afterPath="$PROJECT_DIR$/XmlToJson/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/XmlToJson/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/XmlToJson/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../XmlToJson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ATM.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XmlToJson/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XmlToJson/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/converter_webservice/.swagger-codegen-ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/converter_webservice/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/model/ValidResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/converter_webservice/src/main/java/io/swagger/api/impl/ConvertApiServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/.swagger-codegen/VERSION" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/.swagger-codegen/VERSION" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ApiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/api/ApiException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ApiOriginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/api/ApiOriginFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ApiResponseMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/api/ApiResponseMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ConvertApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/api/ConvertApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/ConvertApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/api/ConvertApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/JacksonJsonProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/api/JacksonJsonProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/api/NotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/RFC3339DateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/api/RFC3339DateFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/api/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/api/StringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/model/BadConversationResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/model/BadConversationResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/model/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/model/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/gen/java/io/swagger/model/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/gen/java/io/swagger/model/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/main/java/io/swagger/api/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/main/java/io/swagger/api/Bootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/main/java/io/swagger/api/factories/ConvertApiServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/main/java/io/swagger/api/factories/ConvertApiServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/main/java/io/swagger/api/impl/ConvertApiServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Converter_web_app/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/converter_webservice/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlToJson" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/Converter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/jsontoxml/JsonToXmlConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/jsontoxml/JsonConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/xmltojson/XmlToJsonConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/src/main/java/dev/viamarinha/xmltojson/XmlConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XmlToJson/src/test/java/dev/viamarinha/jsontoxml/JsonToXmlConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/src/test/java/dev/viamarinha/jsontoxml/JsonConverterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XmlToJson/src/test/java/dev/viamarinha/xmltojson/XmlToJsonConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlToJson/src/test/java/dev/viamarinha/xmltojson/XmlConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/AccountsTreatments/AtmStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/BankingCurrency/CadCurrency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/BankingCurrency/UsdCurrency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Factory/AtmFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Interfaces/IbankingCurrency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/AccountsTreatments/AtmStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/BankingCurrency/CadCurrency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/BankingCurrency/UsdCurrency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Factory/AtmFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/Interfaces/IbankingCurrency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/MainApplication.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,13 +107,15 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Converter_web_app/swagger-jaxrs-server.iml" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
@@ -154,8 +168,18 @@
       <workItem from="1614917499681" duration="329000" />
       <workItem from="1614917847912" duration="1120000" />
       <workItem from="1614996397635" duration="2442000" />
-      <workItem from="1614998932861" duration="4315000" />
+      <workItem from="1614998932861" duration="5161000" />
+      <workItem from="1615256889534" duration="6287000" />
+      <workItem from="1615343541190" duration="1707000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding new module and refactoring a webapp">
+      <created>1615003497991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615003497991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,5 +196,20 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding new module and refactoring a webapp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new module and refactoring a webapp" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/converter_webservice/src/main/java/io/swagger/api/impl/ConvertApiServiceImpl.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

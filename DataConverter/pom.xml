@@ -12,7 +12,7 @@
 
     <modules>
         <module>XmlToJson</module>
-        <module>Converter_web_app</module>
+        <module>converter_webservice</module>
     </modules>
 
     <properties>
